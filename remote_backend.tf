@@ -10,4 +10,8 @@ terraform {
       name = "hashicat-azure"
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 28a1633703ef645bf6644c880e3391369a047547
